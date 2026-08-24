@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 device net parameter pin rewire total
+1  5 (( ( S "Xor layout Analog90" )( L "Xor schematic Analog90" ) )(( 1 6 8 )( 0 2 4 )))
