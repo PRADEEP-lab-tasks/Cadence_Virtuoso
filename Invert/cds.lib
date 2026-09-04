@@ -1,3 +1,0 @@
-SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
-DEFINE Analog90 /home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90
-DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech
