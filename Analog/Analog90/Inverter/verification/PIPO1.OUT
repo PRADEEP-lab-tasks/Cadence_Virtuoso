@@ -1,0 +1,176 @@
+/bin/sh: switchml: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `switchml'
+/bin/sh: which: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `which'
+/bin/sh: ml: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `ml'
+/bin/sh: _module_raw: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `_module_raw'
+/bin/sh: scl: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `scl'
+/bin/sh: module: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `module'
+sh: switchml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `switchml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: _module_raw: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `_module_raw'
+sh: scl: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `scl'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.01s.
+sh: switchml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `switchml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: _module_raw: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `_module_raw'
+sh: scl: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `scl'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: switchml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `switchml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: _module_raw: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `_module_raw'
+sh: scl: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `scl'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: switchml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `switchml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: _module_raw: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `_module_raw'
+sh: scl: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `scl'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: switchml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `switchml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: _module_raw: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `_module_raw'
+sh: scl: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `scl'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.8-64b 11/15/2022 19:27 (cpgbld01) $
+          : sub-version  IC6.1.8-64b.500.29 
+Started at: 28-Jun-2025  14:52:32
+User Name : students
+Host Name : cadence8
+Directory : /home/students/Desktop/PRACTICE_DESIGNS/Analog
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+Loading gpdk090/libInit.il ...
+	Loading gpdk090/loadCxt.ile ... done!
+	Loading context 'gpdk090' from library 'gpdk090' ... done!
+	Loading context 'pdkUtils' from library 'gpdk090' ... done!
+	Loading gpdk090/gpdk090_customFilter.il ... done!
+	Loading gpdk090/.simrc ... done!
+	Loading gpdk090/libInitCustomExit.il ... 	Loading Environment Settings ...
+	Loading gpdk090/gpdk090_PDKRegistrations.il ... done!
+
+  *************************************************************           
+  *              Cadence Design Systems, Inc.                 *           
+  *                                                           *           
+  *                    Generic 90nm PDK                       *           
+  *                        (gpdk090)                          *           
+  *                                                           *           
+  *************************************************************           
+	
+
+	Version : 4.6
+
+	Build date: 10-FEB-2011
+
+done!
+Loaded gpdk090/libInit.il successfully!
+INFO (XSTRM-217): Reading the layer map file, /home/install/FOUNDRY/analog/90nm/libs.oa22/gpdk090/gpdk090.layermap
+INFO (XSTRM-162): You have not used the '-viaMap' option. If the OpenAccess design has native oaVia instances, use the '-viaMap' option for preserving oaVia instances in a XStream Out - XStream In round trip. Using the '-viaMap' option improves performance and VM usage of applications using the Streamed-In design.
+
+Summary of Options :
+library                                 Analog90
+strmFile                                /home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification/Inverter.gds
+topCell                                 Inverter
+view                                    av_extracted
+runDir                                  /home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification
+logFile                                 /home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification/PIPO1.LOG
+techLib                                 gpdk090
+hierDepth                               32
+maxVertices                             2048
+layerMap                                /home/install/FOUNDRY/analog/90nm/libs.oa22/gpdk090/gpdk090.layermap
+userSkillFile                           /home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification/strmout.il
+labelDepth                              32
+case                                    Preserve
+convertDot                              node
+
+*WARNING* envSetVal: Can't set the value of variable 'extractVerifySubstrate',
+	in tool[.partition] 'layout' - it has not been registered.
+WARNING (XSTRM-80094): Cannot open cellview "analogLib/pcapacitor/symbol" with the view type "maskLayout" because this cellview was created with the view type "schematicSymbol". The structure definition corresponding to this master cellview will be missing in the output GDSII/stream file. Importing this GDSII file may result in unbound instances in your design.
+WARNING (XSTRM-80094): Cannot open cellview "analogLib/presistor/symbol" with the view type "maskLayout" because this cellview was created with the view type "schematicSymbol". The structure definition corresponding to this master cellview will be missing in the output GDSII/stream file. Importing this GDSII file may result in unbound instances in your design.
+INFO (XSTRM-223): 1. Translating cellView gpdk090/pmos1v/ivpcell as STRUCTURE pmos1v_CDNS_1.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'annotate:drawing7' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'device:annotate' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'annotate:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'annotate:drawing8' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'device:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'pin:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'instance:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-399): The STRUCT 'pmos1v_CDNS_1' generated for 'gpdk090/pmos1v/ivpcell' in GDS is empty because either the design is empty or no shape or object was translated.
+INFO (XSTRM-223): 2. Translating cellView gpdk090/nmos1v/ivpcell as STRUCTURE nmos1v_CDNS_2.
+WARNING (XSTRM-399): The STRUCT 'nmos1v_CDNS_2' generated for 'gpdk090/nmos1v/ivpcell' in GDS is empty because either the design is empty or no shape or object was translated.
+INFO (XSTRM-223): 3. Translating cellView Analog90/Inverter/av_extracted as STRUCTURE Inverter.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'Poly:net' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'Nwell:net' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'Nimp:net' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'Pimp:net' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+
+Summary of Objects Translated:
+	Scalar Instances:                       27
+	Array Instances:                        0
+	Polygons:                               6
+	Paths:                                  0
+	Rectangles:                             18
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           0
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               0
+	Text:                                   0
+	TextDisplay:                            0
+	Cells:                                  3
+
+Elapsed Time: 1.4s   User Time: 0.2s   CPU Time: 0.0s   Peak VM: 8668KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '15' warning(s) found.

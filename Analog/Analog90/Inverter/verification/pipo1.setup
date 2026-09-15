@@ -1,0 +1,16 @@
+case	"preserve"
+convertDot	"node"
+convertPin	"geometry"
+hierDepth	32
+labelCase	"preserve"
+labelDepth	32
+library	"Analog90"
+logFile	"/home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification/PIPO1.LOG"
+maxVertices	2048
+pinAttNum	0
+runDir	"/home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification"
+strmFile	"/home/students/Desktop/PRACTICE_DESIGNS/Analog/Analog90/Inverter/verification/Inverter.gds"
+strmVersion	5
+techLib	"gpdk090"
+topCell	"Inverter"
+view	"av_extracted"
