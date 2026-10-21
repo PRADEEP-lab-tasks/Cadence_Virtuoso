@@ -1,3 +1,0 @@
-Analog90 Inverter av_extracted Inverter
-analogLib pcapacitor symbol pcapacitor
-analogLib presistor symbol presistor
