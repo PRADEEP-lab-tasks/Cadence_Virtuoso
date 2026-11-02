@@ -1,0 +1,8 @@
+# 0
+nmos1v(MOS): nmos1v(MOS)
+# 0
+pmos1v(MOS): pmos1v(MOS)
+# 2
+Inverter schematic Analog90: Inverter layout Analog90
+D PM0 avD7_1
+D NM0 avD1_1

@@ -1,0 +1,18 @@
+# 4
+nmos1v(MOS): nmos1v(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 4
+pmos1v(MOS): pmos1v(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 4
+Inverter schematic Analog90: Inverter layout Analog90
+= Vdd Vdd I
+= Vss Vss I
+= In In I
+= Out Out O
