@@ -1,0 +1,80 @@
+*
+*
+*
+*                       LINUX           Wed Jun 25 12:29:08 2025
+*
+*
+*
+*  PROGRAM  advgen
+*
+*  Name           : advgen - Quantus - (64-bit)
+*  Version        : 21.2.2-p045
+*  Build Date     : Fri Sep 23 10:27:37 PDT 2022
+*
+*  HSPICE LIBRARY
+*
+*!LENGTH_UNITS METERS
+*
+*
+*
+
+*
+.SUBCKT Inverter Vdd Vss In Out
+*
+*
+*  caps2d version: 10
+*
+*
+*       TRANSISTOR CARDS
+*
+*
+MavD1_1	Out#2	In#4	Vss#1	Vss#3	nmos1v#20ivpcell#20gpdk090	L=1e-07
++ W=1.2e-07
++ AD=6.96e-14	AS=6.96e-14	PD=1.16e-06	PS=1.16e-06
++ simW=1.2e-07 fw=1.2e-07
+MavD7_1	Out#5	In#1	Vdd#3	Vdd	pmos1v#20ivpcell#20gpdk090	L=1e-07
++ W=1.2e-07
++ AD=6.96e-14	AS=6.96e-14	PD=1.16e-06	PS=1.16e-06
++ simW=1.2e-07 fw=1.2e-07
+*
+*
+*       RESISTOR AND CAP/DIODE CARDS
+*
+Ri1	In#3	In	10.800000	$mt1	$W=1.2e-07
++ $X=0.6605 $Y=1.5
+Ri2	Out	Out#1	0.713939	$mt1	$W=1.2e-07
++ $X=2.8805 $Y=1.5
+Ri3	Out#1	Out#3	0.423604	$mt1	$W=1.2e-07	$X=2.32 $Y=1.21
+Ri5	Out#1	Out#6	0.436938	$mt1	$W=1.2e-07	$X=2.32 $Y=1.8
+Ri7	Out#2	Out#3	15.000000	$mt1	$W=1.2e-07	$X=2.32 $Y=0.86
+Ri8	Out#5	Out#6	15.000000	$mt1	$W=1.2e-07	$X=2.32 $Y=2.16
+Ri11	Vss#2	Vss	0.165263	$mt1	$W=3.8e-07
++ $X=1.65 $Y=0.4455
+Ri12	Vss#1	Vss#2	15.000000	$mt1	$W=3.8e-07	$X=1.78 $Y=0.86
+Ri13	Vss#3	Vss#2	15.000000	$mt1	$W=3.8e-07	$X=1.52 $Y=0.86
+Ri16	Vdd#2	Vdd	0.248677	$mt1	$W=2.4e-07	$X=1.65 $Y=2.58
+Ri18	Vdd#3	Vdd#2	15.000000	$mt1	$W=3.8e-07	$X=1.78 $Y=2.16
+Rj1	In#1	In#2	59.617226	$poly	$W=1e-07
++ $X=2.05 $Y=1.8255
+Rj2	In#2	In#3	68.011681	$poly	$W=1e-07	$X=1.68 $Y=1.5
+Rj3	In#2	In#4	57.617229	$poly	$W=1e-07
++ $X=2.05 $Y=1.185
+*
+*       CAPACITOR CARDS
+*
+*
+C1	Vdd	Vss	cmodel	3.50096e-16	$X=1.7095 $Y=0.898
+C2	In	Vss	cmodel	6.56726e-17	$X=0.475 $Y=1.358
+C3	Out	Vss	cmodel	6.26695e-17	$X=3.029 $Y=1.366
+C4	In#1	Vss	cmodel	6.19486e-17	$X=2.016 $Y=1.956
+C5	In#4	Vss	cmodel	6.31474e-17	$X=2.0165 $Y=0.8465
+C6	In#3	Vss	cmodel	1.11776e-16	$X=1.245 $Y=1.235
+C7	Out#1	Vss	cmodel	7.40555e-17	$X=2.2055 $Y=1.286
+C8	Out#3	Vss	cmodel	5.13839e-17	$X=2.265 $Y=0.913
+C9	Out#6	Vss	cmodel	5.00865e-17	$X=2.2635 $Y=1.8885
+C10	Vdd#2	Vss	cmodel	4.16587e-17	$X=1.605 $Y=1.708
+C11	In#2	Vss	cmodel	7.99884e-17	$X=1.997 $Y=1.337
+*
+*
+.ENDS Inverter
+*
