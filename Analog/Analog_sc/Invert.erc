@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'Xor layout Analog90':
+  info: Assign pin label "A" at (0.0750, 2.7500) to layer `Metal1_p'.
+  info: Assign pin label "B" at (0.0750, 3.2900) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (4.5600, 0.0750) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (2.9550, 4.9250) to layer `Metal1_p'.
+  info: Assign pin label "Out" at (8.9250, 2.4000) to layer `Metal1_p'.
+
+***** End of Label Report *****
+
