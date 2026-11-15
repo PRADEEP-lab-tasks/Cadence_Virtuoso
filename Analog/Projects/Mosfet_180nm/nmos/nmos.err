@@ -1,0 +1,45 @@
+================================================================================
+Rule No. 117 : PSUB_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : nmos layout Mosfet_180nm
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  0.000        0.000       4.040        5.345
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        0.000      0.000      4.040      5.345
+
+================================================================================
+Rule No. 245 : 13A3: N+SD to Psub tap spacing must be <= 10.0 um
+
+Real Error Count : 2; Flat Error Count : 2
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : nmos layout Mosfet_180nm
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             2              2                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                  1.715        1.990       3.715        3.370
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X        1.715      1.990      3.715      2.590
+   2      X        1.715      2.770      3.715      3.370
+
