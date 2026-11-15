@@ -1,0 +1,20 @@
+ncvlog(64): 15.20-s086: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	ncvlog(64)	15.20-s086: Started on Jul 29, 2025 at 10:43:40 IST
+ncvlog
+    -use5x
+    -SPECIFICUNIT Digital_invt
+    -zparse /tmp/vamsZparma7101
+    -NOWARN DLNOHV
+    -work AMS
+    -view functional
+    -nostdout
+    -logfile /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/.cadence/dfII/TextSupport/Logs/Parser/verilog/AMS/functional/compile0.log
+    -messages
+    -cdslib /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib
+    /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/AMS/Digital_invt/functional/verilog.v
+
+file: /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/AMS/Digital_invt/functional/verilog.v
+	module AMS.Digital_invt:functional
+		errors: 0, warnings: 0
+	 writing out DPL output:
+TOOL:	ncvlog(64)	15.20-s086: Exiting on Jul 29, 2025 at 10:43:40 IST  (total: 00:00:00)
