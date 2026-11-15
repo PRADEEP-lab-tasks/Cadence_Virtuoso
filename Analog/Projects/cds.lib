@@ -1,0 +1,10 @@
+SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
+DEFINE Schmitt_trigger /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger
+DEFINE DC_analysis /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/DC_analysis
+DEFINE OP_Amp /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/OP_Amp
+#Removed by ddDeleteObj: DEFINE Mosfet /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Mosfet
+DEFINE Mosfet_180nm /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Mosfet_180nm
+DEFINE Mosfet_90nm /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Mosfet_90nm
+DEFINE Mosfet_45nm /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Mosfet_45nm
+DEFINE Digital_opamp /home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Digital_opamp
+DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech

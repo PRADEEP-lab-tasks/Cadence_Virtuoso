@@ -1,0 +1,253 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 10/18/2022 20:11 (sjfdcl1032) $
+\o Sub version:		sub-version  s292 
+\o Arguments:		-unmapped -mpssession virtuoso201719 -mpshost cadence8 
+\o Working Directory:	cadence8:/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a nrResizeWindow(cdsLibManager list(0 335 602 490))
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->libListBox->value = "OP_Amp"
+\a cdsLibManager->libLineEdit->value = "OP_Amp"
+\a cdsLibManager->cellListBox->value = "2_opamp"
+\a cdsLibManager->cellLineEdit->value = "2_opamp"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "OP_Amp"
+\a cdsLibManager->libLineEdit->value = "OP_Amp"
+\a cdsLibManager->cellListBox->value = "2_opamp"
+\a cdsLibManager->cellLineEdit->value = "2_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "OP_Amp"
+\a cdsLibManager->libLineEdit->value = "OP_Amp"
+\a cdsLibManager->cellListBox->value = "2_opamp"
+\a cdsLibManager->cellLineEdit->value = "2_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "op_amp"
+\a cdsLibManager->cellLineEdit->value = "op_amp"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 4 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "OP_Amp"
+\a cdsLibManager->libLineEdit->value = "OP_Amp"
+\a cdsLibManager->cellListBox->value = "op_amp"
+\a cdsLibManager->cellLineEdit->value = "op_amp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter_opamp"
+\a cdsLibManager->cellLineEdit->value = "Inverter_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter_opamp"
+\a cdsLibManager->cellLineEdit->value = "Inverter_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 1 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->cellListBox->value = "Inverter_opamp"
+\a cdsLibManager->cellLineEdit->value = "Inverter_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->cellListBox->value = "Inverter_opamp"
+\a cdsLibManager->cellLineEdit->value = "Inverter_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->cellListBox->value = "Inverter_opamp"
+\a cdsLibManager->cellLineEdit->value = "Inverter_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "Mosfet_180nm"
+\a cdsLibManager->libLineEdit->value = "Mosfet_180nm"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libListBox->value = "Mosfet_180nm"
+\a cdsLibManager->libLineEdit->value = "Mosfet_180nm"
+\a cdsLibManager->cellListBox->value = "nmos"
+\a cdsLibManager->cellLineEdit->value = "nmos"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "pmos"
+\a cdsLibManager->cellLineEdit->value = "pmos"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "nmos"
+\a cdsLibManager->cellLineEdit->value = "nmos"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: The directory: '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/Schmitt_trigger' does not exist
+\w 	but was defined in libFile '/home/students/Desktop/PRACTICE_DESIGNS/Analog_projects/cds.lib' for Lib 'Schmitt_trigger'.
+\a cdsLibManager->libListBox->value = "Mosfet_180nm"
+\a cdsLibManager->libLineEdit->value = "Mosfet_180nm"
+\a cdsLibManager->cellListBox->value = "nmos"
+\a cdsLibManager->cellLineEdit->value = "nmos"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "Digital_opamp"
+\a cdsLibManager->libLineEdit->value = "Digital_opamp"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "DC_analysis"
+\a cdsLibManager->libLineEdit->value = "DC_analysis"
+\a cdsLibManager->libListBox->value = "OP_Amp"
+\a cdsLibManager->libLineEdit->value = "OP_Amp"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "digital_opamp"
+\a cdsLibManager->cellLineEdit->value = "digital_opamp"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
