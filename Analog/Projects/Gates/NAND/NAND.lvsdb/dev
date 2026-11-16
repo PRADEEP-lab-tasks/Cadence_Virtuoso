@@ -1,0 +1,7 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 unmatched connect pin
+1 0 ((S "I##6" "pmos:ParMos2#1")(("OUT" "VDD")("OUT2" "Out")("TERM4" "VDD")("IN1" "B")("IN2" "A")))
+1 0 ((L "avD27_1" "pmos")(("D" "VDD")("G" "A")("S" "Out")("B" "avC8")))
+1 0 ((L "avD27_2" "pmos")(("D" "Out")("G" "B")("S" "avC8")("B" "avC8")))

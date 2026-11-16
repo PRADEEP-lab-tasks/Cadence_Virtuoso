@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND layout GATES':
+  info: Assign pin label "VSS" at (1.9750, 0.1500) to layer `M1term'.
+  info: Assign pin label "A" at (0.1500, 3.5350) to layer `M1term'.
+  info: Assign pin label "B" at (0.1500, 4.4350) to layer `M1term'.
+  info: Assign pin label "Out" at (3.8000, 4.2950) to layer `M1term'.
+  info: Assign pin label "VDD" at (1.9750, 8.1400) to layer `M1term'.
+
+***** End of Label Report *****
+

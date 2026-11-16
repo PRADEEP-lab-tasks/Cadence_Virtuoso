@@ -1,0 +1,6 @@
+Schematic           | Layout                              | Status
+-------------------------------------------------------------------------------
+NAND schematic GATES| NAND layout GATES                   | errors           *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
