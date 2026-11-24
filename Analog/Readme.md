@@ -62,10 +62,7 @@ Post-Layout Simulation
 - Low Power Operation
 - Stability Analysis
 
-### Dynamic Comparator
-- Offset Voltage Analysis
-- Delay Characterization
-- Monte Carlo Simulations
+
 
 ### Voltage Controlled Oscillator (VCO)
 - Frequency Tuning Range
