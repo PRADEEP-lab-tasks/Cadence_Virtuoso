@@ -44,10 +44,6 @@ Post-Layout Simulation
 - Propagation Delay Measurement
 - Power Consumption Analysis
 
-### Current Mirror
-- Basic and Cascode Current Mirrors
-- Current Matching Analysis
-- Output Resistance Evaluation
 
 ### Differential Amplifier
 - Differential Gain
